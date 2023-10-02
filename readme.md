@@ -19,6 +19,7 @@
 * CSS locators strategy and syntax (**_spec.cy.ts_**)
 * cy.get() with options and alias (**_options.cy.ts_**)
 * sync / async mode with TS and Cy commands (**_sync.cy.ts_**)
+* fetching element properties (**_browser_elements.cy.ts_**)
 
 For more information visit Cypress page
 https://docs.cypress.io/guides/overview/why-cypress/

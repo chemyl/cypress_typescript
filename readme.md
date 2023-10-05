@@ -20,7 +20,8 @@
 * **_options.cy.ts_** | cy.get() with options and alias
 * **_sync.cy.ts_** | sync / async mode with TS and Cy commands 
 * **_browser_elements.cy.ts_** | fetching element properties 
-* **_drop_down_element.cy.ts_** | dropdown web elements fetching value and text 
+* **_drop_down_element.cy.ts_** | dropdown web elements fetching value and text
+* **_contains_method.cy.ts_** | contains method for select strategy
 
 For more information visit Cypress page
 https://docs.cypress.io/guides/overview/why-cypress/

@@ -15,7 +15,7 @@
 * run cypress = **_npm run cypress:open_**
 * select spec test-case and launch
 
-### Covered topics
+### Covered topics 
 * **_spec.cy.ts_** | CSS locators strategy and syntax
 * **_options.cy.ts_** | cy.get() with options and alias
 * **_sync.cy.ts_** | sync / async mode with TS and Cy commands 
